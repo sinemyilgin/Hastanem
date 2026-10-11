@@ -26,7 +26,6 @@ Both contributed to the overall system design, testing, and integration of the h
 Our Goal
 
 We aim to make navigating hospitals less confusing and help patients move around more independently.
-
 Technologies
 
 Bluetooth Low Energy (BLE)
