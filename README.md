@@ -15,9 +15,13 @@ RSSI-Based Localization: Received Signal Strength Indicator (RSSI) measurements 
 
 Navigation: The estimated location supports the goal of guiding users through the hospital.
 
-My Contribution
+Sinem Yılgın
+Worked on the hardware side of the project, focusing on the ESP32-C3, BLE beacon setup, and the localization hardware infrastructure.
 
-I worked on the hardware side of the project, focusing on the ESP32-C3 and BLE beacon setup that supports the indoor localization system.
+Abdullah Erenoral
+Worked on the software side of the project, focusing on the application, localization logic, and integration of beacon data into the navigation system.
+
+Both contributed to the overall system design, testing, and integration of the hardware and software components.
 
 Our Goal
 
