@@ -27,6 +27,10 @@ Technologies
 
 Bluetooth Low Energy (BLE)
 
+Team
+Sinem Yılgın
+Abdullah Erenoral
+
 ESP32-C3
 
 RSSI-based indoor localization
